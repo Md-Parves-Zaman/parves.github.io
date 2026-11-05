@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://parves.github.io/sitemap.xml
